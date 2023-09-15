@@ -9,7 +9,7 @@ With this simple compiler you can create a simple website and with html and css 
     <head>
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <title>os</title>
-        <script src="/storage/emulated/0/oxygen script/compares.js"></script>
+        <script src="Compiler file storage location"></script>
     </head>
     <body>
         <oss>
@@ -24,8 +24,9 @@ With this simple compiler you can create a simple website and with html and css 
 ### Run the compiler
 In all code that you want to use the compiler, you must write the following JavaScript code in that code
 ```
-<script src="/storage/emulated/0/oxygen script/compares.js"></script>
+<script src="Compiler file storage location"></script>
 ```
+Instead of ``Compiler file storage location`` in the above codes, you should put the JavaScript compiler file storage path <a href="">(Download Compiler) </a>
 
 ### Training to use
 When you call the compiler, two tags are added to your html, ``oss`` and ``os``.
