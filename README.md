@@ -27,7 +27,7 @@ In all code that you want to use the compiler, you must write the following Java
 <script src="Compiler file storage location"></script>
 ```
 Instead of ``Compiler file storage location`` in the above codes, you should put the JavaScript compiler file storage path ( 
-![Download Compiler](https://github.com/oxygenscript/2.23/blob/main/compiler)
+[Download Compiler](https://github.com/oxygenscript/2.23/blob/main/compiler)
 )
 
 ### Training to use
