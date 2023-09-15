@@ -3,7 +3,24 @@ Oxygen Script is a simple compiler that you can use to run simple codes in the f
 
 With this simple compiler you can create a simple website and with html and css you can turn it into a big website and publish it.
 
-Code example:
+**Code example:**
+```<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>os</title>
+        <script src="/storage/emulated/0/oxygen script/compares.js"></script>
+    </head>
+    <body>
+        <oss>
+            os: on
+        </oss>
+        <os>
+            run.html("<h1>oxygen script</h2>")
+        </os>
+    </body>
+</html>
+```
 
 ### Training to use
 When you call the compiler, two tags are added to your html, ``oss`` and ``os``.
